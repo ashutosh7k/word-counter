@@ -1,3 +1,5 @@
+# Word Counter - My Project for Invictus hiring challange
+Check the deployed application at https://young-hamlet-60481.herokuapp.com/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
