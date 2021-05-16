@@ -1,4 +1,4 @@
-# Word Counter - My Project for Invictus hiring challange
+# Word Counter - My Project for Invictus hiring challenge
 Check the deployed application at https://young-hamlet-60481.herokuapp.com/
 # Getting Started with Create React App
 
