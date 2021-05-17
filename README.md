@@ -16,7 +16,7 @@ Then passes it to the Table components of Material UI to render the data as a ta
 
 # Libraries/plugins used
 
-### 1. axios
+### 1. Axios
 Axios is a package which allows us to make requests to apis.<br>
 Used axios to fetch data form the given link.
 
