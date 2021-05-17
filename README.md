@@ -45,6 +45,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ![Screenshot (76)](https://user-images.githubusercontent.com/81869115/118536243-1bc0c780-b769-11eb-8175-cc9537b9250f.png)
 
-Check the hosting web-app [here](https://young-hamlet-60481.herokuapp.com/)
+Check the hosted web-app [here](https://young-hamlet-60481.herokuapp.com/)
 
 # Thank you
